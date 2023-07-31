@@ -63,6 +63,20 @@ Confusion Matrix
 ![__results___30_0](https://github.com/ahmetdzdrr/Diabetes-EDA-Feature_Engineering-ML-HPT/assets/117534684/ac6586ef-81a0-4519-8831-92b413c6ee42)
 
 
+HPT (Hyperparameter Tuning)
+
+By performing the HPT (Hyperparameter Tuning) process, specific parameters were determined for all the machine learning algorithms used, and training and testing were conducted accordingly. After these training and testing steps, the best scores, parameters, and models were obtained.
+
+![image](https://github.com/ahmetdzdrr/Diabetes-EDA-Feature_Engineering-ML-HPT/assets/117534684/4fc86c9c-42f4-4b16-8b20-32fc93a88a74)
+
+FEATURE IMPORTANCE
+
+Feature importance was performed for the LightGBM algorithm, which achieved the best result. The importance of the features in the dataset on the model was measured.
+
+![__results___33_0](https://github.com/ahmetdzdrr/Diabetes-EDA-Feature_Engineering-ML-HPT/assets/117534684/020dda27-1ddd-4475-853c-bf0c14e3d5e1)
+
+
+
 
 
 
