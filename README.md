@@ -39,11 +39,9 @@ FEATURE ENGINEERING
 
 New features were discovered and extracted from the dataset through feature engineering, and they were included in the dataset.
 
-BEFORE OUTLIER DETECTION
 ![__results___21_0](https://github.com/ahmetdzdrr/Diabetes-EDA-Feature_Engineering-ML-HPT/assets/117534684/10be1242-5936-4cb6-a6e7-e6492c2bea89)
 
-AFTER OUTLIER DETECTION
-![__results___26_0](https://github.com/ahmetdzdrr/Diabetes-EDA-Feature_Engineering-ML-HPT/assets/117534684/e614152b-1055-4f89-b311-9b3272501ba6)
+
 
 ML - MACHINE LEARNING
 
