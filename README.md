@@ -55,9 +55,11 @@ Machine learning algorithms such as Logistcic Regression, Decision Tree, Random 
 MACHINE LEARNING RESULTS
 
 Scores
+
 ![image](https://github.com/ahmetdzdrr/Diabetes-EDA-Feature_Engineering-ML-HPT/assets/117534684/17cbd073-54f0-4984-b135-21cf26f79415)
 
 Confusion Matrix
+
 ![__results___30_0](https://github.com/ahmetdzdrr/Diabetes-EDA-Feature_Engineering-ML-HPT/assets/117534684/ac6586ef-81a0-4519-8831-92b413c6ee42)
 
 
