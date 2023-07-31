@@ -19,7 +19,12 @@ Data was made more robust by using the method of data capping on the features wh
 
 DATASET FEATURES VISUALIZATION
 
+BEFORE OUTLIER DETECTION
 ![__results___17_0](https://github.com/ahmetdzdrr/Diabetes-EDA-Feature_Engineering-ML-HPT/assets/117534684/a2b635d5-b2f6-400c-90cc-53e492258981)
+
+AFTER OUTLIER DETECTION
+![__results___24_0](https://github.com/ahmetdzdrr/Diabetes-EDA-Feature_Engineering-ML-HPT/assets/117534684/c607b816-b010-4e38-8305-c2ddeb3ffabf)
+
 
 
 TARGET FEATURE VISUALIZATION
